@@ -3,8 +3,14 @@ img {
 }
 
 body {
-    text-align: center;
     font-family: "Arial";    
-    background: greenyellow;
+    text-align: center;
     color: rgb(158, 158, 158);
+    background-color: greenyellow;
+}
+
+a {
+    color: rgb(150, 149, 150);
+    font-size: 18px;
+    margin-left: 10px;
 }
