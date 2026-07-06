@@ -14,4 +14,11 @@ document.addEventListener("DOMContentLoaded", function () {
             timebtn.textContent = "My date: " + mydate;
         }, 1000);
     });
+
+
+    var quote = "wait for it...";
+
+
 });
+
+
