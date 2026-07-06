@@ -12,7 +12,7 @@ document.addEventListener("DOMContentLoaded", function () {
                     minute: "2-digit",
                     second: "2-digit",
                 });
-                timebtn.textContent = "My date: " + mydate;
+                timebtn.textContent = "My time: " + mydate;
             }, 1000);
         });
     }
